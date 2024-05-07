@@ -1,0 +1,9 @@
+ro.build.product=exertis_h8009
+ro.product.board=mt8167
+ro.product.brand=Exertis
+ro.product.manufacturer=malata
+ro.product.name=SMB-H8009
+ro.product.device=SMB-H8009
+ro.mediatek.platform=MT8167
+ro.mediatek.project.path=device/malatamobile/exertis_h8009
+ro.product.cpu.abi=arm64-v8a
